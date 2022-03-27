@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #
 # Updates all running lxc containers on a proxmox host
 
